@@ -1,1 +1,2 @@
 # power-bi-project
+Developed an interactive Power BI dashboard to analyze IPL data from 2008 to 2025 using SQL and Excel. The dashboard showcases season-wise insights, including champions, top players (Orange/Purple Cap), and key stats like total runs, wickets, 4s, 6s, centuries, venues, and teams. It features a dynamic points table, social media integration, and visual elements such as team logos for an engaging user experience.
